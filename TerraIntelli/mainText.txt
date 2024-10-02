@@ -1,0 +1,13 @@
+url https://terra-intelli-default-rtdb.firebaseio.com/
+apiKey AIzaSyAiPxETnQLlfOf5NpudFCtk8g_OZzTqDkU
+apiSct 2HTEX54cJ9cA2QzOh6ONnHzl0Td5LneZqm20HVcl
+
+https://docs.google.com/forms/d/1RBsZHcNJqZZrxUetdGlvmTcDS4GCv3svvchxV_E3ywI/prefill
+
+struktur link upload : 
+https://docs.google.com/forms/d/e/1FAIpQLSdXVJ5YI4oow-899Jnlx3dD_BKwh1CCmcUy_h4J4exXhYNiKQ/viewform?usp=pp_url&entry.707086104=114&entry.1112650402=1144&entry.923638453=zau114&entry.550945002=wifi&entry.1045383026=wifiKey&entry.1620882615=0&entry.400691172=0&entry.832096923=0&entry.1620862372=0&entry.2032357164=0&entry.1975679043=0&entry.859367619=0
+
+struktur link align : 
+https://script.google.com/macros/s/AKfycbzn8Bg76TdfsRN7B71a0bXXLV13kmibIo_F3JxBbTNA-DwU1gb7NWHcdBvrxbtiqar4nw/exec?row=2&entry.550945002=HomeNetwork&entry.1045383026=Password123&entry.1620882615=Open&entry.400691172=On&entry.832096923=Off&entry.1620862372=On&entry.2032357164=On&entry.1975679043=No&entry.859367619=High
+
+
